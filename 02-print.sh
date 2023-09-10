@@ -2,8 +2,8 @@ echo Hello World!
 
 # There are 6 colors available in shell
 # Red       - 31
-# Yellow    - 32
-# Green     - 33
+# Green     - 32
+# Yellow    - 33
 # Blue      - 34
 # Magenta   - 35
 # Cyan      - 36
@@ -15,8 +15,8 @@ echo Hello World!
 #\e[0m    - To disable color
 
 echo -e "\e[31mRED COLOR\e[0m"
-echo -e "\e[32mYellow COLOR\e[0m"
-echo -e "\e[33mGreen COLOR\e[0m"
+echo -e "\e[32mGreen COLOR\e[0m"
+echo -e "\e[33mYellow COLOR\e[0m"
 echo -e "\e[34mBlue COLOR\e[0m"
 echo -e "\e[35mMagenta COLOR\e[0m"
 echo -e "\e[36mCyan COLOR\e[0m"
