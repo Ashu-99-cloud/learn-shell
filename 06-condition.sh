@@ -5,5 +5,5 @@ if [ $fruit == "apple" ]; then
 fi
 
 if [ $fruit == "orange" ]; then
-  echo apple price is 2$
+  echo orange price is 2$
 fi
